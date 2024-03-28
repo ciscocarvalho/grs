@@ -20,3 +20,4 @@ After installing globally, you can run it like this:
 ```sh
 $ grs git/git
 ```
+![image](https://github.com/ciscocarvalho/grs/assets/101912343/79ce386f-e562-4fc5-869f-c0d73e8f4c58)
