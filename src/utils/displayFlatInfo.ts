@@ -20,5 +20,6 @@ export const displayFlatInfo = (flatInfo: FlatInfo) => {
     key = snakeCaseToSentence(key);
     const keySuffix = typeof value === "boolean" ? "? " : ": ";
     value = formatInfoValue(value);
+    console.log(key + keySuffix + value);
   }
 };
